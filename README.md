@@ -9,7 +9,7 @@
   <br>
     🌱 I’m Front-end developer from Ukraine.
   <br>
-    🤔 I’m looking for interesting projects.
+    😎 I’m looking for interesting projects.
   <br>
     🏡 Home addres: Canada, Alberta
   <br>
