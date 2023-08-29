@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center"> 
 <a href="[https://git.io/typing-svg](https://github.com/tromp86?tab=repositories)"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&duration=5000&center=true&vCenter=true&multiline=false&repeat=false&width=400&height=50&lines=Hi!+Nice+to+meet+you!" alt="Typing SVG"/></a>
 </h1>
