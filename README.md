@@ -2,7 +2,7 @@
 <a href="[https://git.io/typing-svg](https://github.com/tromp86?tab=repositories)"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&duration=5000&center=true&vCenter=true&multiline=false&repeat=false&width=400&height=50&lines=Hi!+Nice+to+meet+you!" alt="Typing SVG"/></a>
 </h1>
 <p align="center">
-  <img width="auto" height="250" src="https://github.com/tromp86/tromp86/blob/main/T2.gif">
+  <img width="auto" height="200" src="https://github.com/tromp86/tromp86/blob/main/T2.gif">
 </p>
 <p align="center">
     Hi, I'm Vladyslav Tkachenko,
