@@ -13,7 +13,7 @@
   <br>
     🏡 Home addres: Canada, Alberta
   <br>
-    📞 Tel: +
+    📞 Tel: +13682993238 WhatsApp
   <br>
     📫 Contact me: <a id ="emailToMe" href="mailto: tromp1000@gmail.com">tromp1000@gmail.com</a>
   <br>
